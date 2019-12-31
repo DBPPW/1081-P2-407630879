@@ -1,0 +1,1 @@
+SELECT * FROM rainbow6.rainbow6;

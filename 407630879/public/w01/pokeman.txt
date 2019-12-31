@@ -1,0 +1,41 @@
+Name
+	Psyduck
+Image
+	https://vignette.wikia.nocookie.net/pokemon/images/5/53/054Psyduck.png/revision/latest?cb=20140328195856
+
+Type
+	Water
+
+Evolves To
+	Golduck
+	https://pokemon.fandom.com/wiki/Golduck
+
+
+
+
+Name
+	Slowpoke
+Image
+	https://vignette.wikia.nocookie.net/pokemon/images/7/70/079Slowpoke.png/revision/latest/scale-to-width-down/350?cb=20140328203941
+
+Type
+	Water/Psychic
+
+Evolves To
+	Slowbro
+	https://pokemon.fandom.com/wiki/Slowbro
+	
+
+
+
+Name
+	Magikarp
+Image
+	https://vignette.wikia.nocookie.net/pokemon/images/0/02/129Magikarp.png/revision/latest/scale-to-width-down/350?cb=20140328210352
+
+Type
+	Water
+
+Evolves To
+	Gyarados
+	https://pokemon.fandom.com/wiki/Gyarados
